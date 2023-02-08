@@ -1,0 +1,9 @@
+{
+    "tags": [],
+    "name":"SSL Scanner - Expiratoin Check",
+    "description": "Demo Monitor to detect expired SSL Certificates in Model assets",
+    "modelCategory": "MODEL_MONITORING_MODEL",
+    "defaultAssociationRole": "PERFORMANCE_MODEL",
+    "frequentlyUsed": true,
+    "custom" : {}
+}
